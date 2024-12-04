@@ -26,12 +26,12 @@
 
 ### 📂 Information Technology Projects:
 - **osTicket (Help Desk Ticketing System)**
-  - insert 1
-  - insert 2
-  - insert 3
+  - [osTicket: Prerequisites and Installation](https://github.com/)
+  - [osTicket: Post-Installation Configuration](https://github.com/)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/)
 - **Microsoft Azure**
-  - insert 1
-  - insert 2
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
 
 ---
 
