@@ -37,12 +37,11 @@
 
 ## 📫 Connect with Me:
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ktalons88)
 
-[twitter]: https://twitter.com/
+
+[X]: [https://x.com/ktalons88]
 [linkedin]: https://linkedin.com/in/
-
 
 
 <!--
