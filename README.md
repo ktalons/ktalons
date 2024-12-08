@@ -20,7 +20,7 @@
 - CourseCareers : Information Technology 🔰
   - [Certificate of Completion](https://res.cloudinary.com/dgjv2owk8/image/upload/f_auto/cryolayer/cdn-prod-proxied/6633c9fd41b978fb3d6418fc%2F663a688d810159ff8dde54e8_logo-blue.svg)
 - TryHackMe :lock:
-  - ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/KyleVersluis.png")
+  - ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/KyleVersluis.png)
 
 ---
 
