@@ -38,10 +38,10 @@
 ## 📫 Connect with Me:
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ktalons88)
-
+[<img align="left" alt="Kyle | LinkedIn" width="32px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
 
 [X]: [https://x.com/ktalons88]
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/ktalons88
 
 
 <!--
