@@ -37,13 +37,21 @@
 
 ## 📫 Connect with Me:
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ktalons88)
-[<img align="left" alt="Kyle | LinkedIn" width="32px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />][linkedin]
+<a href="https://linkedin.com/in/ktalons88" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Kyle | LinkedIn" width="32px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" />
+</a>
 
-[X]: [https://x.com/ktalons88]
-[linkedin]: https://linkedin.com/in/ktalons88
+<a href="https://x.com/ktalons88" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="ktalons88 | X" width="32px" src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" />
+</a>
 
+<a href="https://discord.com/users/1298401845366100049" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="talons | Discord" width="32px" src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" />
+</a>
 
+<a href="https://www.instagram.com/oxytocin_ok/profilecard/?igsh=MWU3aajwdThraW0ybA==" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="oxytocin_ok | Instagram" width="32px" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />
+</a>
 <!--
 **ktalons/ktalons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
