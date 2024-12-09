@@ -52,6 +52,10 @@
 <a href="https://www.instagram.com/oxytocin_ok/profilecard/?igsh=MWU3aajwdThraW0ybA==" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="oxytocin_ok | Instagram" width="32px" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />
 </a>
+
+<a href="https://www.youtube.com/@ktalons" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="ktalons | YouTube" width="32px" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" />
+</a>
 <!--
 **ktalons/ktalons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
