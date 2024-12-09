@@ -1,4 +1,4 @@
-# Welcome to My Profile 🦉
+![gitbanner](https://github.com/user-attachments/assets/ef5d9148-e002-465a-a097-0616e5fb8fb4)
 ## 👨‍💻 About Me
 > Howdy 🤠, I'm Kyle, a Cyber Engineering student at the University of Arizona with a focus on Information Security. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity and all things IT.
 #### 🎯 Goals
@@ -26,7 +26,7 @@
 
 ### 📂 Information Technology Projects:
 - **osTicket (Help Desk Ticketing System)**
-  - [osTicket: Prerequisites and Installation](https://github.com/)
+  - [osTicket: Prerequisites and Installation](https://github.com/osticket-install)
   - [osTicket: Post-Installation Configuration](https://github.com/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/)
 - **Microsoft Azure**
