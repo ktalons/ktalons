@@ -27,11 +27,11 @@
 ### 📂 Information Technology Projects:
 - **osTicket (Help Desk Ticketing System)**
   - [osTicket: Prerequisites and Installation](https://github.com/ktalons/osticket-install/)
-  - [osTicket: Post-Installation Configuration](https://github.com/)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/)
+  - [osTicket: Post-Installation Configuration](https://github.com/ktalons/osticket-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ktalons/osticket-ticketdemo)
 - **Microsoft Azure**
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ktalons/ad-config)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ktalons/nsg-traffic-basics)
 
 ---
 
