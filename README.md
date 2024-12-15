@@ -1,4 +1,6 @@
-![talonsbanner](https://github.com/user-attachments/assets/fa32da57-792f-4bcf-a938-8d41c0a7685d)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8664aa57-cf6e-412e-a85c-764ec3a7ba6f" alt="talonbanner">
+</div>
 
 ## 👨‍💻 About Me
 > Hi, I'm Kyle, a Cyber Engineering student at the University of Arizona with a focus on Information Security. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity and all things IT.
