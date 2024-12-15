@@ -1,6 +1,7 @@
-![gitbanner](https://github.com/user-attachments/assets/ef5d9148-e002-465a-a097-0616e5fb8fb4)
+![talonsbanner](https://github.com/user-attachments/assets/fa32da57-792f-4bcf-a938-8d41c0a7685d)
+
 ## 👨‍💻 About Me
-> Howdy 🤠, I'm Kyle, a Cyber Engineering student at the University of Arizona with a focus on Information Security. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity and all things IT.
+> Hi, I'm Kyle, a Cyber Engineering student at the University of Arizona with a focus on Information Security. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity and all things IT.
 #### 🎯 Goals
 - Graduate in Spring 2026 :mortar_board:
 - Transition into the IT workforce as soon as possible 🚀
