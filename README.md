@@ -33,7 +33,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ktalons/osticket-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ktalons/osticket-ticketdemo)
 - **Microsoft Azure**
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ktalons/ad-config)
+  - [Configuration and Deployment of Active Directory in Azure Cloud VM](https://github.com/ktalons/ad-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ktalons/nsg-traffic-basics)
 
 ---
