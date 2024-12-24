@@ -11,9 +11,9 @@
 - Network and contribute to the IT community 🛰️
 #### 🧰 Tools & Technologies
 - Languages: 
-  > ASM, C, Python
+  > ASM, C, Python, XML
 - Tools:
-  > Wireshark, osTicket, Metasploit
+  > osTicket, ELK: Elastic, Wireshark, Metasploit, BurpSuite 
 - Platforms:
   > Linux, Windows, MacOS, Cloud Computing
 #### 🏅 Degrees and Achievements
@@ -23,7 +23,7 @@
 - CourseCareers : Information Technology 🔰
   - [Certificate of Completion](https://res.cloudinary.com/dgjv2owk8/image/upload/f_auto/cryolayer/cdn-prod-proxied/6633c9fd41b978fb3d6418fc%2F663a688d810159ff8dde54e8_logo-blue.svg)
 - TryHackMe :lock:
-  - <img src="https://tryhackme-badges.s3.amazonaws.com/KyleVersluis.png" alt="TryHackMe Badge" />
+  - <img src="https://tryhackme-badges.s3.amazonaws.com/talons.png" alt="TryHackMe Badge" />
 
 ---
 
