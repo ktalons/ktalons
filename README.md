@@ -21,9 +21,11 @@
   - College of Applied Science and Technology:
     [Cyber Operations: Cyber Engineering Emphasis](https://www.arizona.edu/degree-search/majors/cyber-operations-cyber-engineering-emphasis)
 - CourseCareers : Information Technology 🔰
-  - [Certificate of Completion](https://res.cloudinary.com/dgjv2owk8/image/upload/f_auto/cryolayer/cdn-prod-proxied/6633c9fd41b978fb3d6418fc%2F663a688d810159ff8dde54e8_logo-blue.svg)
+  - [Certificate of Completion](https://github.com/user-attachments/assets/0300f5cb-8cef-4b89-b9fd-2bd40e5c4e93)
 - TryHackMe :lock:
   - <img src="https://tryhackme-badges.s3.amazonaws.com/talons.png" alt="TryHackMe Badge" />
+  - [Advent of Cyber 2024 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4WCS17MVTC.pdf)
+  - [Pre Secuirty Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3TPPMDQU0G.pdf)
 
 ---
 
