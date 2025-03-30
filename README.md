@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 About Me
-> Hi, I'm Kyle, a Cyber Engineering student at the University of Arizona with a focus on Information Security. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity and all things IT.
+> Hi, I'm Kyle, a Cyber Engineering student at the University of Arizona with a focus on Cybersecurity. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity and all things IT.
 #### 🎯 Goals
 - Graduate in Spring 2026 :mortar_board:
 - ~~Transition into the IT workforce as soon as possible 🚀~~
