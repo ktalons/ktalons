@@ -6,9 +6,10 @@
 > Hi, I'm Kyle, a Cyber Engineering student at the University of Arizona with a focus on Information Security. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity and all things IT.
 #### 🎯 Goals
 - Graduate in Spring 2026 :mortar_board:
-- Transition into the IT workforce as soon as possible 🚀
-- Build my expertise and experience in Information Security 🛠️
-- Network and contribute to the IT community 🛰️
+- ~~Transition into the IT workforce as soon as possible 🚀~~
+  > 04/25 - Secured a Student SOC Anaylst postion at the University of Arizona ☑️
+- ~~Build my expertise and experience in Cybersecuirty 🛠️~~
+  > 03/25 - Elected CTF Captain in UA's Cyber Saguaro's club ☑️
 #### 🧰 Tools & Technologies
 - Languages: 
   > ASM, C, Python, XML
