@@ -43,8 +43,15 @@
 - **SOC Infrastructure & Tooling**
   - [IAES Repository](https://github.com/IAES-Repo)
     > As a Student SOC Analyst with the University of Arizona’s Facilities Management (FM) department, I contributed to the development and configuration of our internal SOC environment. This included deploying and integrating several open-source tools such as Docker, GLPI, OpenCTI (with connectors), NGINX, Zeek, Suricata, Elasticsearch, and Kibana. I was involved in end-to-end setup—from installation and configuration to testing and optimization while also helping shape team documentation and operational workflows. This role gave me hands-on experience with SIEM pipelines, threat intelligence ingestion, alerting infrastructure, and SOC design in a real-world enterprise setting.
+
 ---
 
+### 🦉 Leadership & Community:
+- **Cyber Saguaro's Club CTF Capatin**
+  - [Cyber Saguaro CTF Discord Server](https://discord.gg/fhcPJnkp)
+    > As the CTF Captain of the University of Arizona’s Cyber Saguaro Club (elected March 2025), I lead a team of students in cybersecurity competitions and knowledge-sharing. One of my first initiatives was revamping our CTF Discord server to improve organization. By creating channels for practice, resources, and teamwork boosted our collaboration and participation. I organize regular training sessions and mini-challenges to help members build skills in reverse engineering, forensics, web exploitation, and more. My focus has been on fostering an inclusive, learning-oriented community where everyone from beginners to experienced members can contribute and grow.
+
+___
 ## 📫 Connect with Me:
 
 <a href="https://linkedin.com/in/ktalons88" target="_blank" rel="noopener noreferrer">
