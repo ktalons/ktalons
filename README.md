@@ -40,7 +40,9 @@
 - **THREADS**
   - The THREADS platform is an innovative educational OS simulator developed during our Spring 2025 OS Security Theory class. [THREADS User Manual v1.0.pdf](https://github.com/user-attachments/files/21332721/THREADS.User.Manual.v1.0.pdf)
     > My contributions to this project included implementing a thread-safe producer–consumer queue and custom memory management routines, as well as designing priority-based FIFO scheduling queues and dynamic doubly-linked list data structures in C. I also handled synchronization using mutexes and condition variables to prevent race conditions, and led debugging efforts for tricky multi-threaded issues (adding extensive logging, step-by-step thread analysis, etc.)
-
+- **SOC Infrastructure & Tooling**
+  - [IAES Repository](https://github.com/IAES-Repo)
+    > As a Student SOC Analyst with the University of Arizona’s Facilities Management (FM) department, I contributed to the development and configuration of our internal SOC environment. This included deploying and integrating several open-source tools such as Docker, GLPI, OpenCTI (with connectors), NGINX, Zeek, Suricata, Elasticsearch, and Kibana. I was involved in end-to-end setup—from installation and configuration to testing and optimization while also helping shape team documentation and operational workflows. This role gave me hands-on experience with SIEM pipelines, threat intelligence ingestion, alerting infrastructure, and SOC design in a real-world enterprise setting.
 ---
 
 ## 📫 Connect with Me:
