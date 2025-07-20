@@ -1,6 +1,6 @@
 
 ## 👨‍💻 About Me
-> Hi, I'm Kyle, a Cyber Engineering student at the University of Arizona. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity and all things IT.
+> Hi, I'm Kyle, a Cyber Engineering student at the University of Arizona. Currently, I’m balancing coursework with hands-on projects and a part-time role in cybersecurity, which lets me apply what I learn in real-world scenarios. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity.
 #### 🎯 Goals
 - Graduate in Spring 2026 :mortar_board:
 - ~~Transition into the IT workforce as soon as possible 🚀~~
@@ -9,15 +9,18 @@
   > 03/25 - Elected CTF Captain in UA's Cyber Saguaro's club ☑️
 #### 🧰 Tools & Technologies
 - Languages: 
-  > ASM, C, Python, XML
+  > ASM (Assembly), C, Python, XML
 - Tools:
-  > osTicket, ELK: Elastic, Wireshark, Metasploit, BurpSuite 
+  > osTicket, ELK Stack (Elasticsearch, Logstash, Kibana), Wireshark, Metasploit, Burp Suite, Docker, GLPI, OpenCTI (with connectors), Nginx, Zeek, Suricata 
 - Platforms:
-  > Linux, Windows, MacOS, Cloud Computing
+  > Linux, Windows, macOS, Cloud environments (Azure/AWS)
 #### 🏅 Degrees and Achievements
 - Bachelor of Applied Science 📜
   - College of Applied Science and Technology:
     [Cyber Operations: Cyber Engineering Emphasis](https://www.arizona.edu/degree-search/majors/cyber-operations-cyber-engineering-emphasis)
+      - [Spring 25 Dean's List ](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d)
+      - [Fall 24 Dean's List](https://github.com/user-attachments/files/21332640/Versluis_Kyle_DL_FT_F24.pdf)
+
 - CourseCareers : Information Technology 🔰
   - [Certificate of Completion](https://github.com/user-attachments/assets/0300f5cb-8cef-4b89-b9fd-2bd40e5c4e93)
 - TryHackMe :lock:
@@ -27,13 +30,18 @@
 
 ---
 
-### 📂 Information Technology Projects:
+### 📂 My Projects:
 - **osTicket (Help Desk Ticketing System)**
   - [osTicket: Prerequisites and Installation](https://github.com/ktalons/osticket-install/)
   - [osTicket: Post-Installation Configuration](https://github.com/ktalons/osticket-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ktalons/osticket-ticketdemo)
 - **Microsoft Azure**
   - [Configuration and Deployment of Active Directory in Azure Cloud VM](https://github.com/ktalons/ad-config)
+- **THREADS**
+  - The THREADS (Threaded Heuristic Research, Educational, And Development Simulator) platform is an innovative educational OS simulator developed during our Spring 2025 OS Security Theory class. It bridges theoretical operating system concepts with practical, hands-on experience by simulating a realistic kernel development environment.
+    > My contributions to this project included implementing a thread-safe producer–consumer queue and custom memory management routines, as well as designing priority-based FIFO scheduling queues and dynamic doubly-linked list data structures in C. I also handled synchronization using mutexes and condition variables to prevent race conditions, and led debugging efforts for tricky multi-threaded issues (adding extensive logging, step-by-step thread analysis, etc.)
+
+<img align="left" alt="Kyle | " width="38" height="38" alt="threads" src="https://github.com/user-attachments/assets/d1a5cded-f40d-4651-b939-4106fb1227ae" /> [THREADS User Manual v1.0.pdf](https://github.com/user-attachments/files/21332721/THREADS.User.Manual.v1.0.pdf)
 
 ---
 
