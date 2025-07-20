@@ -11,7 +11,7 @@
 - Languages: 
   > ASM (Assembly), C, Python, XML
 - Tools:
-  > osTicket, ELK Stack (Elasticsearch, Logstash, Kibana), Wireshark, Metasploit, Burp Suite, Docker, GLPI, OpenCTI (with connectors), Nginx, Zeek, Suricata 
+  > osTicket, ELK Stack (Elasticsearch, Logstash, Kibana), Wireshark, Metasploit, Burp Suite, Docker, GLPI, OpenCTI, Nginx, Zeek, Suricata 
 - Platforms:
   > Linux, Windows, macOS, Cloud environments (Azure/AWS)
 #### 🏅 Degrees and Achievements
