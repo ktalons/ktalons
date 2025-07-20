@@ -19,7 +19,7 @@
   - College of Applied Science and Technology:
     [Cyber Operations: Cyber Engineering Emphasis](https://www.arizona.edu/degree-search/majors/cyber-operations-cyber-engineering-emphasis)
       - [Spring 25 Dean's List ](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d)
-      - [Fall 24 Dean's List](https://github.com/user-attachments/files/21332640/Versluis_Kyle_DL_FT_F24.pdf)
+      - [Fall 24 Dean's List](https://github.com/user-attachments/assets/44640182-5ffa-460b-ace2-225da6b5acec)
 
 - CourseCareers : Information Technology 🔰
   - [Certificate of Completion](https://github.com/user-attachments/assets/0300f5cb-8cef-4b89-b9fd-2bd40e5c4e93)
