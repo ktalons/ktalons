@@ -38,10 +38,8 @@
 - **Microsoft Azure**
   - [Configuration and Deployment of Active Directory in Azure Cloud VM](https://github.com/ktalons/ad-config)
 - **THREADS**
-  - The THREADS (Threaded Heuristic Research, Educational, And Development Simulator) platform is an innovative educational OS simulator developed during our Spring 2025 OS Security Theory class. It bridges theoretical operating system concepts with practical, hands-on experience by simulating a realistic kernel development environment.
+  - The THREADS platform is an innovative educational OS simulator developed during our Spring 2025 OS Security Theory class. [THREADS User Manual v1.0.pdf](https://github.com/user-attachments/files/21332721/THREADS.User.Manual.v1.0.pdf)
     > My contributions to this project included implementing a thread-safe producer–consumer queue and custom memory management routines, as well as designing priority-based FIFO scheduling queues and dynamic doubly-linked list data structures in C. I also handled synchronization using mutexes and condition variables to prevent race conditions, and led debugging efforts for tricky multi-threaded issues (adding extensive logging, step-by-step thread analysis, etc.)
-
-<img align="left" alt="Kyle | " width="38" height="38" alt="threads" src="https://github.com/user-attachments/assets/d1a5cded-f40d-4651-b939-4106fb1227ae" /> [THREADS User Manual v1.0.pdf](https://github.com/user-attachments/files/21332721/THREADS.User.Manual.v1.0.pdf)
 
 ---
 
