@@ -1,6 +1,6 @@
 
 ## 👨‍💻 About Me
-> Hi, I'm Kyle, a Cyber Engineering student at the University of Arizona. Currently, I’m balancing coursework with hands-on projects and a part-time role in cybersecurity, which lets me apply what I learn in real-world scenarios. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity.
+> I'm a Cyber Engineering student at the University of Arizona. Currently, I’m balancing coursework with hands-on projects and a part-time role in cybersecurity, which lets me apply what I learn in real-world scenarios. My GitHub is where I plan to showcase various projects, collaborate with others, and explore my interests in cybersecurity.
 #### 🎯 Goals
 - Graduate in Spring 2026 :mortar_board:
 - ~~Transition into the IT workforce as soon as possible 🚀~~
@@ -23,6 +23,10 @@
 
 - CourseCareers : Information Technology 🔰
   - [Certificate of Completion](https://github.com/user-attachments/assets/0300f5cb-8cef-4b89-b9fd-2bd40e5c4e93)
+
+- Coursera 🛡️
+  - [Google Cybersecurity Certificate](https://github.com/user-attachments/files/22281604/Coursera_NJDO3PFJSAQE.pdf)
+    
 - TryHackMe :lock:
   - <img src="https://tryhackme-badges.s3.amazonaws.com/talons.png" alt="TryHackMe Badge" />
   - [Advent of Cyber 2024 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4WCS17MVTC.pdf)
