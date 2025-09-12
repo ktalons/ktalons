@@ -25,7 +25,7 @@
   - [Certificate of Completion](https://github.com/user-attachments/assets/0300f5cb-8cef-4b89-b9fd-2bd40e5c4e93)
 
 - Coursera 🛡️
-  - [Google Cybersecurity Certificate](https://github.com/user-attachments/files/22281604/Coursera_NJDO3PFJSAQE.pdf)
+  - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NJDO3PFJSAQE))
     
 - TryHackMe :lock:
   - <img src="https://tryhackme-badges.s3.amazonaws.com/talons.png" alt="TryHackMe Badge" />
