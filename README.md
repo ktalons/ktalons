@@ -67,7 +67,8 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
   - Dean's List: [Spring '25](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d), [Fall '24](https://github.com/user-attachments/assets/44640182-5ffa-460b-ace2-225da6b5acec)
 - 🔰 CourseCareers — Information Technology: [Certificate of Completion](https://github.com/user-attachments/assets/0300f5cb-8cef-4b89-b9fd-2bd40e5c4e93)
 - 🛡️ Google Cybersecurity Professional: [Coursera Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NJDO3PFJSAQE)
-- 🔐 TryHackMe: <img src="https://tryhackme-badges.s3.amazonaws.com/talons.png" alt="TryHackMe Badge" /> • [Advent of Cyber 2024](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4WCS17MVTC.pdf) • [Pre-Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3TPPMDQU0G.pdf)
+- 🔐 TryHackMe: • [Advent of Cyber 2024](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4WCS17MVTC.pdf) • [Pre-Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3TPPMDQU0G.pdf) <br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/talons.png" alt="TryHackMe Badge" />
 
 ---
 
