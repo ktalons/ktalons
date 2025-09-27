@@ -37,7 +37,6 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logoColor=white)
-![XML](https://img.shields.io/badge/XML-0B5C99?logoColor=white)
 
 <!-- Platforms / Cloud -->
 **Platforms & Cloud**
@@ -78,7 +77,7 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B8B?logo=n8n&logoColor=white)
 
-<sub>Also: osTicket, OpenCTI, GLPI</sub>
+<sub>Also: XML, osTicket, OpenCTI, GLPI</sub>
 <sub>Exposure/roadmap: Ansible, Terraform, PostgreSQL, Moodle</sub>
 
 ---
@@ -140,7 +139,7 @@ Impact
 ---
 
 ## Leadership & Community
-- Cyber Saguaro Club — CTF Captain (since Mar 2025). Led server reorganization, training sessions, and challenges; fostered collaborative upskilling across reverse engineering, forensics, web exploitation, and more. [Join the Discord](https://discord.gg/fhcPJnkp)
+- Cyber Saguaro Club — CTF Captain (since Mar 2025). Led server reorganization, training sessions, and challenges; fostered collaborative upskilling across reverse engineering, forensics, web exploitation, and more. [Join the Discord](https://discord.gg/bASJPxvKMw)
 
 ---
 
