@@ -35,6 +35,7 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?logoColor=white)
 ![XML](https://img.shields.io/badge/XML-0B5C99?logoColor=white)
 
@@ -47,18 +48,38 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
 
-<!-- Tools -->
-**Security & Infra Tooling**
+<!-- IaC & Orchestration -->
+**IaC & Orchestration**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
+
+<!-- Identity & Secrets -->
+**Identity & Secrets**
+
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white)
+
+<!-- Security & Telemetry -->
+**Security & Telemetry**
+
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-5E5E5E?logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-DB3C30?logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
 
-<sub>Also: osTicket, Metasploit, GLPI, OpenCTI, Zeek, Suricata</sub>
+<!-- Automation & Workflow -->
+**Automation & Workflow**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B8B?logo=n8n&logoColor=white)
+
+<sub>Also: osTicket, OpenCTI, GLPI</sub>
+<sub>Exposure/roadmap: Ansible, Terraform, PostgreSQL, Moodle</sub>
 
 ---
 
@@ -82,6 +103,22 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
   - Contributions: thread-safe producer–consumer queue, custom memory management, priority-based FIFO schedulers, dynamic doubly-linked lists in C, synchronization (mutexes/condvars), and multi-threaded debugging.
 - <strong>SOC Infrastructure & Tooling</strong>
   - [IAES Repository](https://github.com/IAES-Repo) — Deployed and integrated open-source tools for an internal SOC: Docker, GLPI, OpenCTI (with connectors), NGINX, Zeek, Suricata, Elasticsearch, Kibana. Worked across install, config, testing, optimization, documentation, and workflows (SIEM pipelines, TI ingestion, alerting infra, SOC design).
+
+## Current Volunteer Work
+- Volunteer Contributor — Infrastructure & Configuration
+- Repository: [Cyber Saguaros CyberHub](https://github.com/ktalons/Saguaros-CyberHub)
+
+Highlights
+- IaC & automation: authoring and refining Ansible playbooks, Docker Compose stacks; contributing to Terraform/HCL provisioning where applicable.
+- Identity & access: assisting with Keycloak SSO integration; exposure to FreeIPA/SSSD and directory services (LDAP/Samba).
+- Secrets management: contributing to HashiCorp Vault configuration and secure service bootstrapping.
+- Virtualization & platform: Proxmox templating and service deployment patterns.
+- Security telemetry: Elastic Stack pipelines; network sensor integration (Zeek, Suricata) and log ingestion paths.
+- Workflow automation: n8n flows for operational tasks and content pipelines.
+- Learning & CTF: support for Moodle-based courses and the Crucible range infrastructure.
+
+Impact
+- Helping standardize service templates, improve repeatable deployment processes, and document configuration for a reproducible student-accessible cyber range.
 
 ---
 
