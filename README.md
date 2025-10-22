@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://placehold.co/1200x280/0e75b6/ffffff?text=Kyle%20%E2%80%A2%20Cyber%20Engineering" alt="Profile banner placeholder" />
+  <img src="https://github.com/user-attachments/assets/e4a940b9-8349-4d00-8bb0-f42dff2d029b" alt="Profile banner" />
 
   <h1>Hi, I'm Kyle 👋</h1>
   <p><strong>Cyber Engineering @ University of Arizona</strong> • <strong>Student SOC Analyst</strong> • <strong>CTF Captain</strong></p>
@@ -108,13 +108,13 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 - Repository: [Cyber Saguaros CyberHub](https://github.com/ktalons/Saguaros-CyberHub)
 
 Highlights
-- IaC & automation: authoring and refining Ansible playbooks, Docker Compose stacks; contributing to Terraform/HCL provisioning where applicable.
-- Identity & access: assisting with Keycloak SSO integration; exposure to FreeIPA/SSSD and directory services (LDAP/Samba).
-- Secrets management: contributing to HashiCorp Vault configuration and secure service bootstrapping.
-- Virtualization & platform: Proxmox templating and service deployment patterns.
-- Security telemetry: Elastic Stack pipelines; network sensor integration (Zeek, Suricata) and log ingestion paths.
-- Workflow automation: n8n flows for operational tasks and content pipelines.
-- Learning & CTF: support for Moodle-based courses and the Crucible range infrastructure.
+- IaC & automation
+- Identity & access
+- Secrets management
+- Virtualization & platform
+- Security telemetry
+- Workflow automation
+- Learning & CTF
 
 Impact
 - Helping standardize service templates, improve repeatable deployment processes, and document configuration for a reproducible student-accessible cyber range.
