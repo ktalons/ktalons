@@ -2,7 +2,6 @@
 
   <img src="https://github.com/user-attachments/assets/e4a940b9-8349-4d00-8bb0-f42dff2d029b" alt="Profile banner" />
 
-  <h1>Hi, I'm Kyle 👋</h1>
   <p><strong>Cyber Engineering @ University of Arizona</strong> • <strong>Student SOC Analyst</strong> • <strong>CTF Captain</strong></p>
 
   <p>
