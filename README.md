@@ -53,12 +53,6 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
 
-<!-- Identity & Secrets -->
-**Identity & Secrets**
-
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?logo=keycloak&logoColor=white)
-![Vault](https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white)
-
 <!-- Security & Telemetry -->
 **Security & Telemetry**
 
@@ -77,7 +71,7 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 ![n8n](https://img.shields.io/badge/n8n-EA4B8B?logo=n8n&logoColor=white)
 
 <sub>Also: XML, osTicket, OpenCTI, GLPI</sub>
-<sub>Exposure/roadmap: Ansible, Terraform, PostgreSQL, Moodle</sub>
+<sub>Exposure/roadmap: Ansible, Terraform, PostgreSQL, Moodle, KeyCloak, Vault</sub>
 
 ---
 
