@@ -115,16 +115,6 @@ Impact
 
 ---
 
-## GitHub Stats
-<div align="center">
-  <img alt="Kyle's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=ktalons&show_icons=true&theme=transparent&hide_border=true" />
-  <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktalons&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
-  <br/>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=ktalons&theme=transparent&hide_border=true" />
-</div>
-
----
-
 ## Contact
 Prefer DMs via LinkedIn or Discord. Happy to connect and collaborate.
 
