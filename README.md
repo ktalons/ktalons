@@ -27,7 +27,7 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 
 ---
 
-## Skills & Tools
+## High Level Exposure
 
 <!-- Languages -->
 **Languages**
@@ -46,32 +46,18 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FF9900)
 
-<!-- IaC & Orchestration -->
-**IaC & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox&logoColor=white)
-
 <!-- Security & Telemetry -->
-**Security & Telemetry**
+**Main Security Tooling**
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
 ![Zeek](https://img.shields.io/badge/Zeek-5E5E5E?logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-DB3C30?logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?logo=burpsuite&logoColor=white)
-
-<!-- Automation & Workflow -->
-**Automation & Workflow**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B8B?logo=n8n&logoColor=white)
 
 <sub>Also: XML, osTicket, OpenCTI, GLPI</sub>
-<sub>Exposure/roadmap: Ansible, Terraform, PostgreSQL, Moodle, KeyCloak, Vault</sub>
+<sub>Exposure/roadmap: N8N, Ansible, Terraform, PostgreSQL, Moodle, KeyCloak, Vault</sub>
 
 ---
 
@@ -113,13 +99,6 @@ Impact
 - Helping standardize service templates, improve repeatable deployment processes, and document configuration for a reproducible student-accessible cyber range.
 
 ---
-
-## Pinned Repositories
-<div align="center">
-  <a href="#"><img src="https://placehold.co/400x120?text=Pinned+Project+1" alt="Pinned Project 1" /></a>
-  <a href="#"><img src="https://placehold.co/400x120?text=Pinned+Project+2" alt="Pinned Project 2" /></a>
-  <a href="#"><img src="https://placehold.co/400x120?text=Pinned+Project+3" alt="Pinned Project 3" /></a>
-</div>
 
 <!-- When ready, replace the placeholders with actual repo cards like:
 <div align="center">
