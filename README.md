@@ -108,8 +108,6 @@ Impact
 </div>
 -->
 
----
-
 ## Leadership & Community
 - Cyber Saguaro Club — CTF Captain (since Mar 2025). Led server reorganization, training sessions, and challenges; fostered collaborative upskilling across reverse engineering, forensics, web exploitation, and more. [Join the Discord](https://discord.gg/bASJPxvKMw)
 
@@ -122,4 +120,3 @@ Prefer DMs via LinkedIn or Discord. Happy to connect and collaborate.
 <!-- Resume: https://your-resume-link-here -->
 <!-- Email: your.name [at] example [dot] com -->
 
-<!-- Optional banner: Add a clean banner image at the very top for extra polish. -->
