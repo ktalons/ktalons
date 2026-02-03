@@ -86,18 +86,6 @@ I'm a Cyber Engineering student at the University of Arizona, applying classroom
 - Volunteer Contributor — Infrastructure & Configuration
 - Repository: [Cyber Saguaros CyberHub](https://github.com/ktalons/Saguaros-CyberHub)
 
-Highlights
-- IaC & automation
-- Identity & access
-- Secrets management
-- Virtualization & platform
-- Security telemetry
-- Workflow automation
-- Learning & CTF
-
-Impact
-- Helping standardize service templates, improve repeatable deployment processes, and document configuration for a reproducible student-accessible cyber range.
-
 ---
 
 <!-- When ready, replace the placeholders with actual repo cards like:
