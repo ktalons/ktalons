@@ -26,8 +26,6 @@
 
 I co-built an OT/ICS Security Operations Center from the ground up at the University of Arizona, designing the SIEM ingestion architecture, tuning detection logic, and triaging alerts across industrial control systems that serve the entire campus. Our SOC ingests **~2.5 million events per day** across **3 facility sites** using Elastic Stack — Suricata IDS, Zeek NSM, and custom ICS alert pipelines normalized to Elastic Common Schema (ECS).
 
-I'm also building **[CASA](https://github.com/ktalons/casa-ai-agent)** (Cybersecurity Analysis Support Agent) — a modular AI agent supporting log and network traffic analysis for SME/MSP security operations, with explainable reasoning aligned to NIST standards and MITRE ATT&CK mapping.
-
 - :mortar_board: Graduating **May 2026** — B.A.S. Cyber Operations (Cyber Engineering Emphasis)
 - :shield: Student OT SOC Analyst & Engineer — University of Arizona Facilities Management (Apr 2025–Present)
 - :jigsaw: CTF Captain, Cyber Saguaros — NCL Fall '25: Team 100/4,214 | MWCC 2026: Team 12th
@@ -75,7 +73,7 @@ I'm also building **[CASA](https://github.com/ktalons/casa-ai-agent)** (Cybersec
 
 ## Featured Projects
 
-### CASA — Cybersecurity Analysis Support Agent *(Personal Project)*
+### CASA — Cybersecurity Analysis Support Agent
 A modular AI agent supporting log and network traffic analysis for SME/MSP security operations. Guides investigative workflows with explainable reasoning aligned to NIST standards, with MITRE ATT&CK technique mapping across lateral movement, network beaconing, data exfiltration, and authentication anomaly workflows.
 <br>**Repo:** [ktalons/casa-ai-agent](https://github.com/ktalons/casa-ai-agent)
 
