@@ -42,7 +42,6 @@ I'm also building **[CASA](https://github.com/ktalons/casa-ai-agent)** (Cybersec
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 
@@ -89,8 +88,6 @@ A modular AI agent supporting log and network traffic analysis for SME/MSP secur
 ### SOC Infrastructure & Tooling *(University of Arizona — [IAES-Repo](https://github.com/IAES-Repo))*
 - **IAES Logstash Pipelines** — Modular multi-pipeline Logstash architecture for OT/ICS SIEM; normalizes Suricata IDS, Zeek NSM, and ICS alert logs to ECS. Processes ~2.5M events/day. *(Private; public redacted snapshot planned)*
 - **DLQ Log Watcher & Manager** — Python automation for SIEM pipeline health monitoring and error-driven reingestion; detects Dead Letter Queue failures and triggers automated recovery. *(Private; public snapshot planned)*
-- **[ICS-Dash](https://github.com/IAES-Repo/ICS-Dash)** — Dashboard to visualize and analyze ICS connection data, powered by Dash and Plotly.
-- **[AnomaLLMy](https://github.com/IAES-Repo/AnomaLLMy)** — LLM-powered anomaly detection for ICS network security; automates threat interpretation and report generation.
 
 ### Security Tooling *(In Development)*
 - **[PCAPpuller](https://github.com/ktalons/daPCAPpuller)** — Network forensics tooling — fast PCAP window selector, merger, and cleaner for high-volume packet collections. *(Active development)*
@@ -116,7 +113,7 @@ A modular AI agent supporting log and network traffic analysis for SME/MSP secur
 - :robot: **Vanderbilt: Generative AI Cybersecurity and Privacy for Leaders** — Coursera (Nov 2025)
 - :trophy: **NCL Fall 2025** — Team 100/4,214 | Individual 447/7,875 | [Verify](https://cyberskyline.com/verify/)
 - :mountain: **Mountain West Cyber Challenge 2026** — Team 12th Place
-- :scroll: **Dean's List** — [Spring '25](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d), [Fall '24](https://github.com/user-attachments/assets/44640182-5ffa-460b-ace2-225da6b5acec)
+- :scroll: **Dean's List** — Fall '25, [Spring '25](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d), [Fall '24](https://github.com/user-attachments/assets/44640182-5ffa-460b-ace2-225da6b5acec)
 - :lock: **TryHackMe** — [Advent of Cyber 2024](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4WCS17MVTC.pdf) | [Pre-Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3TPPMDQU0G.pdf)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/talons.png" alt="TryHackMe Badge" />
