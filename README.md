@@ -75,12 +75,6 @@ I'm also building **[CASA](https://github.com/ktalons/casa-ai-agent)** (Cybersec
 
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/ktalons/casa-ai-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ktalons&repo=casa-ai-agent&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/ktalons/cybersec-discord-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ktalons&repo=cybersec-discord-bot&hide_border=true&theme=transparent" /></a>
-  <a href="https://github.com/ktalons/ad-config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ktalons&repo=ad-config&hide_border=true&theme=transparent" /></a>
-</div>
-
 ### CASA — Cybersecurity Analysis Support Agent *(Personal Project)*
 A modular AI agent supporting log and network traffic analysis for SME/MSP security operations. Guides investigative workflows with explainable reasoning aligned to NIST standards, with MITRE ATT&CK technique mapping across lateral movement, network beaconing, data exfiltration, and authentication anomaly workflows.
 <br>**Repo:** [ktalons/casa-ai-agent](https://github.com/ktalons/casa-ai-agent)
