@@ -78,8 +78,8 @@ A modular AI agent supporting log and network traffic analysis for SME/MSP secur
 <br>**Repo:** [ktalons/casa-ai-agent](https://github.com/ktalons/casa-ai-agent)
 
 ### SOC Infrastructure & Tooling *(University of Arizona — [IAES-Repo](https://github.com/IAES-Repo))*
-- **IAES Logstash Pipelines** — Modular multi-pipeline Logstash architecture for OT/ICS SIEM; normalizes Suricata IDS, Zeek NSM, and ICS alert logs to ECS. Processes ~2.5M events/day. *(Private; public redacted snapshot planned)*
-- **DLQ Log Watcher & Manager** — Python automation for SIEM pipeline health monitoring and error-driven reingestion; detects Dead Letter Queue failures and triggers automated recovery. *(Private; public snapshot planned)*
+- **[IAES Logstash Pipelines](https://github.com/ktalons/IAESsoc-elk-snapshot)** — Modular multi-pipeline Logstash architecture for OT/ICS SIEM; normalizes Suricata IDS, Zeek NSM, and ICS alert logs to ECS. Processes ~2.5M events/day. *(Private; public redacted snapshot linked)*
+- **[DLQ Log Watcher & Manager](https://github.com/ktalons/IAESsoc-elk-snapshot)** — Python automation for SIEM pipeline health monitoring and error-driven reingestion; detects Dead Letter Queue failures and triggers automated recovery. *(Private; public snapshot linked)*
 
 ### Security Tooling *(In Development)*
 - **[PCAPpuller](https://github.com/ktalons/daPCAPpuller)** — Network forensics tooling — fast PCAP window selector, merger, and cleaner for high-volume packet collections. *(Active development)*
@@ -114,8 +114,6 @@ A modular AI agent supporting log and network traffic analysis for SME/MSP secur
 
 ## Upcoming Competitions
 
-- **NCAE Cyber Games** — Mar 7, 2026
-- **MITRE 2026 eCTF** — Jan 14 – Apr 15, 2026
 - **NCL Spring 2026**
 - **picoCTF 2026**
 
