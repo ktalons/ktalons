@@ -29,7 +29,7 @@ I co-built an OT/ICS Security Operations Center from the ground up at the Univer
 - :mortar_board: Graduating **May 2026** — B.A.S. Cyber Operations (Cyber Engineering Emphasis)
 - :shield: Student OT SOC Analyst & Engineer — University of Arizona Facilities Management (Apr 2025–Present)
 - :jigsaw: CTF Captain, Cyber Saguaros — NCL Fall '25: Team 100/4,214 | MWCC 2026: Team 12th
-- :closed_lock_with_key: CompTIA Security+ in progress (Expected April 2026)
+- :closed_lock_with_key: CompTIA Security+ in progress (Expected May 2026)
 - :robot: Interested in: security engineering, detection engineering, security automation, applied AI for cyber defense
 
 ---
