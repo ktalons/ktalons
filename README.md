@@ -84,7 +84,7 @@ A modular AI agent supporting log and network traffic analysis for SME/MSP secur
 ### Security Tooling *(In Development)*
 - **[PCAPpuller](https://github.com/ktalons/daPCAPpuller)** — Network forensics tooling — fast PCAP window selector, merger, and cleaner for high-volume packet collections. *(Active development)*
 - **[bashedlogs](https://github.com/ktalons/bashedlogs)** — CLI tool for cybersecurity log analysis with automatic format detection. *(Active development)*
-- **[Violent-Python](https://github.com/ktalons/Violent-Python)** — Curated collection of Python security scripting projects. *(Private)*
+- **[Violent-Python](https://github.com/ktalons/Violent-Python)** — Curated collection of Python security scripting projects. *(Active development)*
 
 ### Infrastructure & Administration
 - **[Active Directory Lab](https://github.com/ktalons/ad-config)** — AD domain services deployment and configuration in Azure VMs for security testing and administration.
@@ -116,7 +116,7 @@ A modular AI agent supporting log and network traffic analysis for SME/MSP secur
 
 ## Leadership & Community
 
-**CTF Captain** — Cyber Saguaros Club, University of Arizona (Mar 2025–Present)
+**CTF Captain** — Cyber Saguaros Club, University of Arizona (Mar 2025–Apr 2026)
 <br>Lead teams of 4–8 across defensive and offensive CTF competitions. Run training sessions on incident response, detection engineering, and adversary tradecraft using MITRE ATT&CK.
 
 **Cyber Range Volunteer** — [Saguaros CyberHub](https://github.com/ktalons/Saguaros-CyberHub) (Apr 2025–Present)
