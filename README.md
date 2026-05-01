@@ -100,22 +100,17 @@ A modular AI agent supporting log and network traffic analysis for SME/MSP secur
 
 ## Certifications & Achievements
 
-- :closed_lock_with_key: **CompTIA Security+** — In Progress (Expected April 2026)
+- :closed_lock_with_key: **CompTIA Security+** — In Progress (Expected May 2026)
 - :shield: **Google Cybersecurity Professional** — [Coursera Certificate](https://www.coursera.org/account/accomplishments/professional-cert/NJDO3PFJSAQE) (Sep 2025)
 - :robot: **Vanderbilt: Generative AI Cybersecurity and Privacy for Leaders** — Coursera (Nov 2025)
 - :trophy: **NCL Fall 2025** — Team 100/4,214 | Individual 447/7,875 | [Verify](https://cyberskyline.com/verify/)
+- :trophy: **NCL Spring 2026** — Team 264/3,634 | Individual 474/7,009 | [Verify](https://cyberskyline.com/verify/)
 - :mountain: **Mountain West Cyber Challenge 2026** — Team 12th Place
-- :scroll: **Dean's List** — Fall '25, [Spring '25](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d), [Fall '24](https://github.com/user-attachments/assets/44640182-5ffa-460b-ace2-225da6b5acec)
+- :scroll: **Dean's List** — [Fall '25](https://github.com/user-attachments/files/27287812/Versluis_Kyle_DL_FT_WD_F25-1.pdf)
+, [Spring '25](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d), [Fall '24](https://github.com/user-attachments/assets/44640182-5ffa-460b-ace2-225da6b5acec)
 - :lock: **TryHackMe** — [Advent of Cyber 2024](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4WCS17MVTC.pdf) | [Pre-Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-3TPPMDQU0G.pdf)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/talons.png" alt="TryHackMe Badge" />
-
----
-
-## Upcoming Competitions
-
-- **NCL Spring 2026**
-- **picoCTF 2026**
 
 ---
 
@@ -128,7 +123,7 @@ A modular AI agent supporting log and network traffic analysis for SME/MSP secur
 <br>Support Proxmox VM deployments, secure network segmentation, and firewall rule testing for training scenarios.
 
 **Arizona Cybersecurity Clinic** — Engineering Team, Senior Capstone (Spring 2026)
-<br>Conduct risk and vulnerability assessments; deliver actionable security recommendations for community partners. Capstone project: [PTS (Project Twilight Synapse)](https://github.com/Capstone-AI-Research-Project) — multi-agent AI-assisted cybersecurity analysis platform.
+<br>Capstone project: [AI Agentic Research in IoT Security](https://github.com/Capstone-AI-Research-Project) — multi-agent AI-assisted cybersecurity analysis platform.
 
 [Join the Cyber Saguaros Discord](https://discord.gg/bASJPxvKMw)
 
