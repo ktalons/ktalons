@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/e4a940b9-8349-4d00-8bb0-f42dff2d029b" alt="Profile banner" />
 
   <h3>Kyle Versluis</h3>
-  <p><strong>SOC Analyst</strong> · <strong>Detection Engineering</strong> · <strong>OT/ICS &amp; Critical Infrastructure Defense</strong></p>
+  <p><strong>SOC Analyst</strong> · <strong>Security Engineering</strong> · <strong>OT/ICS &amp; Critical Infrastructure Defense</strong></p>
   <p><sub>B.A.S. Cyber Operations (Cyber Engineering Emphasis), University of Arizona '26 · Tucson, AZ</sub></p>
 
   <p>
