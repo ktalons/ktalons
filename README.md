@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/e4a940b9-8349-4d00-8bb0-f42dff2d029b" alt="Profile banner" />
 
   <h3>Kyle Versluis</h3>
-  <p><strong>SOC Analyst</strong> · <strong>Security Engineering</strong> · <strong>OT/ICS &amp; Critical Infrastructure Defense</strong></p>
+  <p><strong>SOC Analyst</strong> · <strong>Security Engineering</strong> · <strong>OT/ICS &amp; Critical Infrastructure Defense</strong> · <strong>FedRAMP 20x</strong></p>
   <p><sub>B.A.S. Cyber Operations (Cyber Engineering Emphasis), University of Arizona '26 · Tucson, AZ</sub></p>
 
   <p>
@@ -32,9 +32,12 @@ I learn by building. I spent a year and a half helping build and run an OT/ICS S
 
 I graduated in May 2026, and now I'm building [TalonSocLab](https://github.com/ktalons/talonsoclab), a home SOC. I also research how agentic AI holds up in real security operations and continue to learn and expand my cybersecurity skills.
 
+Lately that has pulled me into FedRAMP 20x. I built [ComplyRoll](https://github.com/ComplyRoll/ComplyRoll), an open-source tool that compiles STIG and SCAP output into schema-valid FedRAMP vulnerability reports and reads every response deadline out of FedRAMP's published rules dataset instead of hardcoding it. Building against that dataset turned up five rules that state a cadence in prose but never encode it, which I [raised with FedRAMP directly](https://github.com/FedRAMP/community/discussions/164).
+
 ## Now
 
 - 🛠️ Building [TalonSocLab](https://github.com/ktalons/talonsoclab)
+- 📋 Building [ComplyRoll](https://github.com/ComplyRoll/ComplyRoll), FedRAMP 20x vulnerability reporting
 - 🔐 CompTIA Security+ in progress
 - 🟩 Hack The Box CJCA, CDSA track
 - ✍️ Writing up each lab phase at [ktalons.github.io](https://ktalons.github.io)
@@ -86,7 +89,7 @@ I graduated in May 2026, and now I'm building [TalonSocLab](https://github.com/k
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
-<sub>**Frameworks & operations:** MITRE ATT&CK · MITRE CAR · NIST CSF 2.0 · NIST 800-53/800-171 · CIS Controls · ISO 27001 · GLPI · osTicket · OpenCTI</sub>
+<sub>**Frameworks & operations:** MITRE ATT&CK · MITRE CAR · NIST CSF 2.0 · NIST 800-53/800-171 · CIS Controls · ISO 27001 · FedRAMP 20x · DISA STIG/SCAP · GLPI · osTicket · OpenCTI</sub>
 
 ---
 
@@ -115,7 +118,7 @@ I graduated in May 2026, and now I'm building [TalonSocLab](https://github.com/k
 
 ## Contact
 
-Open to connecting about security engineering, detection architecture, OT/ICS security, or AI for cyber defense.
+Open to connecting about security engineering, detection architecture, OT/ICS security, FedRAMP 20x and compliance automation, or AI for cyber defense.
 
 <p>
   <a href="https://www.linkedin.com/in/ta1ons"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
