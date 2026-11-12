@@ -3,8 +3,8 @@
   <img src="https://github.com/user-attachments/assets/e4a940b9-8349-4d00-8bb0-f42dff2d029b" alt="Profile banner" />
 
   <h3>Kyle Versluis</h3>
-  <p><strong>SOC Analysis</strong> · <strong>Security Engineering</strong> · <strong>OT/ICS</strong></p>
-  <p><sub>University of Arizona '26 · Tucson, AZ</sub></p>
+  <p><strong>Incoming Cyber Security Analyst I at Hughes Federal Credit Union</strong></p>
+  <p><sub>Security Operations · IT Risk · OT/ICS · University of Arizona '26 · Tucson, AZ</sub></p>
 
   <p>
     <a href="https://www.linkedin.com/in/ta1ons" target="_blank" rel="noopener noreferrer">
@@ -24,7 +24,9 @@
 
 ## About
 
-I learn by building. I spent over a year helping build and run an OT/ICS Security Operations Center for the University of Arizona's Facilities Management team. Our Elastic Stack SIEM ingested **~2.5 million events a day across three facility sites**, bringing together ICS alerts, Suricata, and Zeek telemetry.
+I learn by building. My upcoming role will span security monitoring, incident response, IT governance and risk, and operational resilience.
+
+I spent over a year helping build and run an OT/ICS Security Operations Center for the University of Arizona's Facilities Management team. Our Elastic Stack SIEM ingested **~2.5 million events a day across three facility sites**, bringing together ICS alerts, Suricata, and Zeek telemetry.
 
 ## Selected Technical Work
 
