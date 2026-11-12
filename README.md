@@ -3,7 +3,8 @@
   <img src="https://github.com/user-attachments/assets/e4a940b9-8349-4d00-8bb0-f42dff2d029b" alt="Profile banner" />
 
   <h3>Kyle Versluis</h3>
-  <p><strong>Security Operations · IT Risk · OT/ICS · University of Arizona '26 · Tucson, AZ</strong></p>
+  <p><strong>Security Operations · IT Risk · OT/ICS</strong></p>
+  <p><sub>University of Arizona '26 · Tucson, AZ</sub></p>
 
   <p>
     <a href="https://www.linkedin.com/in/ta1ons" target="_blank" rel="noopener noreferrer">
