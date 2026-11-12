@@ -62,7 +62,7 @@ Building Python tooling that converts scanner output into traceable vulnerabilit
 
 ## Education & Credentials
 
-- **B.A.S. Cyber Operations, Cyber Engineering Emphasis** · University of Arizona, May 2026 · [Degree](assets/UA-BASCO-Degree.pdf)
+- **BASc Cyber Operations, Cyber Engineering Emphasis** · University of Arizona, May 2026 · [Degree](assets/UA-BASCO-Degree.pdf)
 - **Google Cybersecurity Professional Certificate** · [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/NJDO3PFJSAQE) · Sep 2025
 - **CompTIA Security+** · in progress
 - **Hack The Box** · ongoing hands-on learning, CJCA / CDSA track · [Learning profile](https://profile.hackthebox.com/profile/019c49c6-8948-713e-8e0b-7b983ea113c0)
