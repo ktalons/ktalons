@@ -1,10 +1,10 @@
 <div align="center">
 
   <img src="https://github.com/user-attachments/assets/e4a940b9-8349-4d00-8bb0-f42dff2d029b" alt="Profile banner" />
-
-  <h3>Kyle Versluis</h3>
-  <p><strong>Security Operations and Risk · OT/ICS · AI Security </strong></p>
-  <p><sub>University of Arizona '26 · Tucson, AZ</sub></p>
+  <br>
+  ---
+  <p><strong>Cybersecurity Analyst · University of Arizona '26 · Tucson, AZ</strong></p>
+  <p><sub>Security Operations and Risk · OT/ICS · AI Security</sub></p>
 
   <p>
     <a href="https://www.linkedin.com/in/ta1ons" target="_blank" rel="noopener noreferrer">
@@ -24,7 +24,7 @@
 
 ## About
 
-I learn by building. My upcoming role will span security monitoring, incident response, IT governance and risk, and operational resilience.
+I learn by building and breaking. My new role at Hughes covers security monitoring, incident response, IT governance and risk, and operational resilience.
 
 I spent over a year helping build and run an OT/ICS Security Operations Center for the University of Arizona's Facilities Management team. Our Elastic Stack SIEM ingested **~2.5 million events a day across three facility sites**, bringing together ICS alerts, Suricata, and Zeek telemetry.
 
@@ -64,7 +64,6 @@ Building Python tooling that converts scanner output into traceable vulnerabilit
 
 - **BASc Cyber Operations, Cyber Engineering Emphasis** · University of Arizona, May 2026 · [Degree](assets/UA-BASCO-Degree.pdf)
 - **Google Cybersecurity Professional Certificate** · [Coursera](https://www.coursera.org/account/accomplishments/professional-cert/NJDO3PFJSAQE) · Sep 2025
-- **CompTIA Security+** · in progress
 - **Hack The Box** · ongoing hands-on learning, CJCA / CDSA track · [Learning profile](https://profile.hackthebox.com/profile/019c49c6-8948-713e-8e0b-7b983ea113c0)
 
 **Future learning:** AI security engineering. **Long-term career goal:** Become an AI Security Engineer, focused on securing AI systems and applying AI in security operations.
@@ -87,4 +86,4 @@ Building Python tooling that converts scanner output into traceable vulnerabilit
 
 **CTF Captain, Cyber Saguaros** · University of Arizona, Mar 2025–May 2026. Led teams of 4–8 across defensive and offensive competitions.
 
-**Cyber Range Volunteer** · [Saguaros CyberHub](https://github.com/ktalons/Saguaros-CyberHub), Apr 2025–Feb 2026. Supported Proxmox VM deployments, network segmentation, and firewall rule testing for training scenarios.
+**Cyber Range Volunteer** · Saguaros CyberHub, Apr 2025–Feb 2026. Supported Proxmox VM deployments, network segmentation, and firewall rule testing for training scenarios.
