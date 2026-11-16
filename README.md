@@ -4,7 +4,7 @@
   <br>
   ---
   <p><strong>Cybersecurity Analyst · University of Arizona '26 · Tucson, AZ</strong></p>
-  <p><sub>Security Operations and Risk · OT/ICS · AI Security</sub></p>
+  <p><small>Security Operations and Risk · OT/ICS · AI Security</small></p>
 
   <p>
     <a href="https://www.linkedin.com/in/ta1ons" target="_blank" rel="noopener noreferrer">
