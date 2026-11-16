@@ -71,7 +71,7 @@ Building Python tooling that converts scanner output into traceable vulnerabilit
 <summary>Additional training & achievements</summary>
 
 - **Undergraduate Certificate in Cyber Operations** · University of Arizona, May 2026 · [Certificate](assets/UA-UGCO-Certificate.pdf)
-- **Dean's List:** [Spring '26](assets/DLSpring26.pdf) · [Fall '25](https://github.com/user-attachments/files/27287812/Versluis_Kyle_DL_FT_WD_F25-1.pdf) · [Spring '25](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d) · [Fall '24](https://github.com/user-attachments/assets/44640182-5ffa-460b-ace2-225da6b5acec)
+- **Dean's List:** [Spring '26](assets/DLSpring26.pdf) · [Fall '25](assets/DLFall25.pdf) · [Spring '25](https://github.com/user-attachments/assets/733473a5-c95c-4e97-a689-6b13d0b2240d) · [Fall '24](https://github.com/user-attachments/assets/44640182-5ffa-460b-ace2-225da6b5acec)
 - **Vanderbilt: Generative AI Cybersecurity and Privacy for Leaders** · Coursera, Nov 2025
 - **NCL Fall 2025:** Team 100/4,214 · Individual 447/7,875
 - **NCL Spring 2026:** Team 264/3,634 · Individual 474/7,009
