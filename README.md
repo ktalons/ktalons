@@ -24,7 +24,7 @@
 
 ## About
 
-I learn by building and breaking. My new role at Hughes covers security monitoring, incident response, IT governance and risk, and operational resilience.
+I learn by building and breaking. My new role covers security monitoring, incident response, IT governance and risk, and operational resilience.
 
 I spent over a year helping build and run an OT/ICS Security Operations Center for the University of Arizona's Facilities Management team. Our Elastic Stack SIEM ingested **~2.5 million events a day across three facility sites**, bringing together ICS alerts, Suricata, and Zeek telemetry.
 
@@ -47,7 +47,6 @@ Built a personal SOC using Wazuh, Sysmon, and Suricata, with custom dashboards a
 Developed Python and Bash tools for packet-capture extraction and security-log triage. Built a synthetic account-takeover/BEC lab covering detection correlation, timeline reconstruction, response documentation, and business-risk communication.
 
 [![GitHub: Financial Security Incident Lab](https://img.shields.io/badge/Financial_Incident_Lab-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ktalons/financial-security-incident-lab)
-[![GitHub: PCAPpuller](https://img.shields.io/badge/PCAPpuller-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ktalons/PCAPpuller)
 [![GitHub: bashedlogs](https://img.shields.io/badge/bashedlogs-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ktalons/bashedlogs)
 
 ### Vulnerability evidence automation
